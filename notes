@@ -1,0 +1,134 @@
+types of AI
+1. Narrow AI (weak AI)
+2. General AI 
+3. Theoretical AI (Super AI)
+
+types of ML
+1. supervised Learning -- learns from labeled data
+2. unsupervised learning -- finds hidden patterns or grouping in       unlabeled data on its own
+3. reinforcement learning -- learns by trial and error, receiving rewards  or penalties for action.
+
+code--
+print typescript
+if condition
+
+lists[] --- 
+dictionary --- 
+
+data-frame -- index, row and column
+
+slicing like 1:5 
+
+operations
+1. insert -- index ma value thapxa
+2. pop
+3. remove
+4. extend -- list lai extend garxa
+5. clear
+6. append -- last ma value thapxa
+
+dictionary-- {key: value} -- also called JSON format.
+
+DAY 2 AI/ML ----
+arange
+reshape
+shape
+ndim --- for dimension.
+
+Arithmetic operations.
+mean
+median
+standard deviation
+
+DAY 3 ----------
+data clean
+charts
+bar chart
+scatter plot --- spread of the data or distribution.
+
+careers-----
+1.ai engineer
+2.data analyst
+3.solution architect
+
+
+DAY 4-----
+deep dive into a supervised learning.
+Classification vs. Regression
+
+Train data vs. Test data
+Train date --- 80%
+Test data--- 20%
+
+Test size == 0.2 (20 and 80)
+
+ML workflow--
+1.Data
+2.cleaning
+3.Training
+4.Testing
+5.prediction
+
+Linear Regression---predicting a continuous number from one or more input features.
+
+Logistic Regression---binary outcome.
+
+Decision Tree---A flowchart of yes/no questions that leads to a prediction.
+
+Evaluating model.
+
+choose k
+place centroids
+
+scatter plot is the fastest way to make clustering output.
+
+Neural Network---
+finding complex, not finer data model.
+
+input, Hidden and output layers
+
+Activation functions
+ReLu,
+Sigmoid,
+SoftMax
+
+deep learning----
+deep simply means many hidden layers stacked together.
+have millions of weight to tune, so they typically need large datasets and GPU to train effectively-
+
+deep learning frontier.
+computer vision
+Natural language processing
+Generative AI
+
+DAY 5----
+
+Generative AI --- it creates brand-new content-text, images, audio.
+
+LLM--Large Language Model--neural network trained on massive amount of texts from books, articles, and websites.
+Large refers to size and parameters of data.
+
+How CHATGPT works:
+Pre-trained
+fine-tuning
+alignment
+interference
+
+Prompt Engineering Basics
+getting better results by better instructions.
+
+A strong prompt structure:
+1.role--who should ai act as
+2.task--what do you want
+3.context--what background
+4.constraints--any limits, length or format
+5.output--result.
+
+Responsible AI ---
+bias, privacy and limitation.
+
+
+
+
+
+
